@@ -1,1 +1,1 @@
-# BIL470-Project
+Projede yapilmis ve kullanilmis butun kodlar python dosyalarında mevcuttur
